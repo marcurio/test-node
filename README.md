@@ -1,11 +1,10 @@
 
-
 # test-node
 
 
 
 ## Usage
-
+Nothing special, just a bootstrap for node experiments
 
 
 ## Developing
